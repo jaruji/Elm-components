@@ -1,0 +1,1 @@
+--component that ensures pagination of input (html elements such as divs or stuff...)
